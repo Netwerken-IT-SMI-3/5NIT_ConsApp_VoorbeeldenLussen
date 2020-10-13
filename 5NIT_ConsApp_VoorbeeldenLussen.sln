@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5NIT_ConsApp_VoorbeeldenLussen", "5NIT_ConsApp_VoorbeeldenLussen\5NIT_ConsApp_VoorbeeldenLussen.csproj", "{25344FEB-40F5-4E8E-9E6A-8AB99B62BF87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25344FEB-40F5-4E8E-9E6A-8AB99B62BF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25344FEB-40F5-4E8E-9E6A-8AB99B62BF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25344FEB-40F5-4E8E-9E6A-8AB99B62BF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25344FEB-40F5-4E8E-9E6A-8AB99B62BF87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98816A0D-C555-4A56-99A7-39260B7311CA}
+	EndGlobalSection
+EndGlobal
